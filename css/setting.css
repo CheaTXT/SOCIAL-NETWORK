@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=REM:wght@200;300&display=swap');
+*{
+  font-family: 'REM', sans-serif;
+}
+.container{
+  background: #27374D;
+}
+.nav-bar{
+  /* background-color: aqua; */
+  justify-items: start;
+}
+.text{
+  font-size: 30px;
+  text-decoration: underline;
+}
+.back-btn{
+  padding-left: 15px;
+}
+.search-btn{
+  padding-right: 25px;
+}
+
